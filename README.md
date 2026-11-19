@@ -9,8 +9,8 @@ cd /home/user<YOUR USER NAME>
 #### Set up anaconda and check whether everything's visible !
 ```
 DON'T INSTALL IT...
-##wget https://repo.anaconda.com/archive/Anaconda3-2024.10-1-Linux-x86_64.sh
-##bash Anaconda3-2024.10-1-Linux-x86_64.sh
+##wget https://repo.anaconda.com/archive/Anaconda3-2026.07-1-Linux-x86_64.sh
+##bash Anaconda3-2026.07-1-Linux-x86_64.sh
 
 ...WE HAVE ALREADY SET UP A VERSION
 path="/home/ubuntu/shotgun_course/anaconda3course/bin/"
