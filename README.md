@@ -93,7 +93,7 @@ path="/home/ubuntu/shotgun_course/anaconda3course/bin/"
 conda deactivate
 source ${path}/activate
 
-##conda create -n mpa -c conda-forge -c bioconda python=3.7 metaphlan=4.2.6 ## DON'T DO IT. WE DID ALREADY
+##conda create -n mpa -c conda-forge -c bioconda python=3.7 metaphlan=4.2.4 ## DON'T DO IT. WE DID ALREADY
 source ${path}/activate mpa
 
 mkdir 2_metaphlan
